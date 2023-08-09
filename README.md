@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 😄 I am a penultimate year Information Systems undergraduate at Singapore Management University with a passion for using technology to solve real-world problems. 
 
-🌱 I initially started out as a User Experience designer, but I realized that I needed to have a deeper understanding of technology in order to grow as a designer, hence I enrolled in university to learn more about how technology can add value to users. If you would like to review my past design work: [here you go:](https://issuu.com/elijahkhor/docs/portfolio)!
+🌱 I initially started out as a User Experience designer, but I realized that I needed to have a deeper understanding of technology in order to grow as a designer, hence I enrolled in university to learn more about how technology can add value to users. If you would like to review my past design work: [here you go](https://issuu.com/elijahkhor/docs/portfolio)!
 
 💻 Along the way, I began to enjoy programming and found it exciting to explore new things and use my diverse skillset to solve problems. I'm also highly involved in my school community and give back whenever I can.
 
