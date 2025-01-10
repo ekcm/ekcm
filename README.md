@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I am a final year Information Systems undergraduate at Singapore Management University with a passion for using technology to solve real-world problems. 
 
-🌱 I initially started out as a User Experience designer, but I realized that I needed to have a deeper understanding of technology in order to grow as a designer, hence I enrolled in university to learn more about how technology can add value to users. 
+🌱 Before transitioning to software engineering, I worked as a user experience designer, where I led cross-functional teams to translate research insights into actionable product improvements. This background continues to inform my work today as I remain dedicated to designing accessible and user-friendly interfaces for AI/LLM tools—an essential step toward broader adoption and understanding of these technologies.
 
-💻 Along the way, I began to enjoy programming and found it exciting to explore new things and use my diverse skillset to solve problems. I'm also highly involved in my school community and give back whenever I can.
+💻I thrive on driving impact through software engineering, product development, and user experience design. I'm always open to discussing exciting projects or opportunities. Currently, I'm exploring roles in the US and would love to connect with anyone willing to take a chance on me. Feel free to reach out—I’d be happy to chat!
 
 🚀 If you would like to have a coffee chat with me, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/elijah-khor/)!
