@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Before transitioning to software engineering, I worked as a user experience designer, where I led cross-functional teams to translate research insights into actionable product improvements. This background continues to inform my work today as I remain dedicated to designing accessible and user-friendly interfaces for AI/LLM tools—an essential step toward broader adoption and understanding of these technologies.
+🌱 Hi, I'm Elijah! I'm a software engineer passionate about solving complex problems using large language models (LLMs). I specialize in building multi-agent workflows, retrieval-augmented generation (RAG) applications, and implementing full-stack LLM features in real-world scenarios. My work has given me a deep understanding of how to harness the power of LLMs to create impactful, innovative solutions.
 
-💻I thrive on driving impact through software engineering, product development, and user experience design. I'm always open to discussing exciting projects or opportunities. Currently, I'm exploring roles in the US and would love to connect with anyone willing to take a chance on me. Feel free to reach out—I’d be happy to chat!
+💻 Before transitioning to software engineering, I worked as a user experience designer, where I led cross-functional teams to translate research insights into actionable product improvements. This background continues to inform my work today as I remain dedicated to designing accessible and user-friendly interfaces for AI/LLM tools—an essential step toward broader adoption and understanding of these technologies.
 
-🚀 If you would like to have a coffee chat with me, feel free to connect with me on [Linkedin](https://www.linkedin.com/in/elijah-khor/)!
+🚀 I thrive on driving impact through software engineering, product development, and user experience design. I'm always open to discussing exciting projects or opportunities. Feel free to connect with me on [Linkedin](https://www.linkedin.com/in/elijah-khor/)!
